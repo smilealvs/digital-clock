@@ -3,7 +3,7 @@
 <p>What time is it? ⏰</p>
 </h1>
 
-<h2 align="center"><img src="./assets/img/clock-working.gif"> </h2>
+<h2 align="center"><img src="./assets/img/digital-clock-print.png"> </h2>
 
 ## 📕 About
 
@@ -19,5 +19,5 @@
 ## ⏰ How To Use
 
 ```bash
-    Open the 'index.html' file on your browser or live server.
+    1. Open the 'index.html' file on your browser or live server.
 ```
