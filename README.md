@@ -3,7 +3,7 @@
 <p>What time is it? ⏰</p>
 </h1>
 
-<h2 align="center"><img src="./assets/img/digital-clock-print.png"> </h2>
+<h2 align="center"><img src="./assets/img/digital-clock-print.png"></h2>
 
 ## 📕 About
 
